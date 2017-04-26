@@ -11,10 +11,14 @@
         - Requests
             - New Request 
             - My Requests 
+            - Edit Request
             - Request Details
+        - Public Profile
        - Organization
         - Profile
         - Compaign
           - New Compaign
           - Edit Compaign
-          - List of Compaigns     
+          - List of Compaigns
+          - Compaign Details
+        - Public Profile ()     
