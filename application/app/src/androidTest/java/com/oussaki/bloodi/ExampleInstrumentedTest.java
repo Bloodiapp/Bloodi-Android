@@ -2,6 +2,7 @@ package com.oussaki.bloodi;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
+import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
 
 import org.junit.Rule;
@@ -18,7 +19,8 @@ import static org.junit.Assert.*;
 @RunWith(AndroidJUnit4.class)
 public class ExampleInstrumentedTest {
     @Rule
-    public
+    public ActivityTestRule<Main> mainActivityTestRule = new ActivityTestRule<Main>(Main.class);
+    
     @Test
     public void useAppContext() throws Exception {
         // Context of the app under test.
