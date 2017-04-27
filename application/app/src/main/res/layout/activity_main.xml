@@ -4,6 +4,20 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.oussaki.bloodi.Main">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:src="@mipmap/northern_lights_min"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_logo" />
 
 </RelativeLayout>
