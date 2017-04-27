@@ -7,6 +7,11 @@ Feel free to contribut
 
 
 # Description :
- - Bloodi is social network for blood donors, where people can help each others in emergency cases or non emergency case
- - Both Organizations and individuals can use it 
- - Bloodi is non-profit project
+ + Bloodi is social network for blood donors, where people can help each others in emergency cases or non emergency case
+ + Both Organizations and individuals can use it 
+ + Bloodi is non-profit project
+
+
+# Requirements:
+  * Android Studio 
+  * JAVA Version 8 
