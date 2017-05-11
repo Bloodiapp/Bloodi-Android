@@ -9,8 +9,6 @@ import android.widget.EditText;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-import static com.oussaki.bloodi.R.id.number1;
-import static com.oussaki.bloodi.R.id.number2;
 
 public class Main extends AppCompatActivity {
 
