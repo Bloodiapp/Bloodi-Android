@@ -21,4 +21,5 @@
           - Edit Compaign
           - List of Compaigns
           - Compaign Details
-        - Public Profile ()     
+        - Public Profile ()
+          - Private message     
